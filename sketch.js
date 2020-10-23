@@ -35,8 +35,6 @@ function setup() {
     helicopter.addImage("helicopterImg", helicopterImg);
     helicopter.scale = 1.2;
 
-    World.add(world, box);
-
     Engine.run(engine);
 }
 
